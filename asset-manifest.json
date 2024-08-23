@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movi-website/static/css/main.31d6cfe0.css",
+    "main.js": "/movi-website/static/js/main.c3d8fb46.js",
+    "static/js/453.24b51942.chunk.js": "/movi-website/static/js/453.24b51942.chunk.js",
+    "index.html": "/movi-website/index.html",
+    "main.c3d8fb46.js.map": "/movi-website/static/js/main.c3d8fb46.js.map",
+    "453.24b51942.chunk.js.map": "/movi-website/static/js/453.24b51942.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c3d8fb46.js"
+  ]
+}
